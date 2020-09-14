@@ -1,0 +1,13 @@
+
+Start
+  |
+  |
+Say "Dues---no
+  Vult!"    |  
+   |        |
+   |      Say "By
+  yes     the Pope!"
+   |        |
+   |        |
+ Twirl Blade-
+    2x
